@@ -1,8 +1,3 @@
-// The React import is no longer needed in the newer versions of React, still useful to
-// have when working with bigger projects, will leave commented out for now.
-//import React from "react";
-
-// Import Similar to how TS uses Types
 import PropTypes from 'prop-types'
 import Button from './Button';
 import  { useLocation } from 'react-router-dom';
@@ -10,7 +5,6 @@ import  { useLocation } from 'react-router-dom';
 
 const Header = ({ title, onAdd, showAdd}) => {
     const location = useLocation()
-
 
     return (
         <header className='header'>
