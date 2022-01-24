@@ -1,21 +1,21 @@
 {
   "tasks": [
     {
-      "text": "New Task",
-      "day": "New Task",
+      "text": "Learn React",
+      "day": "Monday",
       "reminder": true,
       "id": 1
     },
     {
-      "text": "New Task 1",
-      "day": "New Task 1",
-      "reminder": false,
+      "text": "Learn More React",
+      "day": "Tuesday",
+      "reminder": true,
       "id": 2
     },
     {
-      "text": "New Task 2",
-      "day": "New Task 2",
-      "reminder": true,
+      "text": "Learn even more React",
+      "day": "Wednesday",
+      "reminder": false,
       "id": 3
     }
   ]
